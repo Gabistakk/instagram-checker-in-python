@@ -4,6 +4,10 @@ instagram checker que eu fiz para fins de estudos.
 Para funcionar, deverá ter um arquivo .txt chamada emails na mesma pasta que o main.py.
 Os e mails devem ser separados das senhas com ':'.
 
+O NAVEGADOR NECESSITA TER DRIVER PARA O SELENIUM FUNCIONAR.
+exemplos: chromedriver.exe (para o chrome)
+msedgedriver.exe (para o edge)
+
 O output será assim:
 email.com:senha
 INSTAGRAM ENCONTRADO.
